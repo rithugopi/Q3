@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Q3</string>
+
+    <!-- Meal types for Spinner -->
+    <string-array name="meal_types">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Snack</item>
+    </string-array>
+    <string-array name="operations">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+    </string-array>
+</resources>
